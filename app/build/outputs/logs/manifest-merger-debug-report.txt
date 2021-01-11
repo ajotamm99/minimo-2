@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6f72cc906f84641a8e354746165e7d4e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\64d095c01dab46d2f9448a92a2c51a4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\130c996482638139e6034fd719f7f0f3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\7181d2f59a8c3b801f838d6fc2d9d89e\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\3d4c169fa47361c2e61d53d34cd29af2\AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a78f3e27715382398f416defb5f00f66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\24084af8a19fbdbb4a57f65281a860b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\697b424703c24543c91ec555baf69b49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4d189e96f7abc06dd9f9c6ca3d4fc95e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\427c1357ff3a047f2a525482ba5276fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\13118fd5e1e61c5455020915aebae278\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\1d00cc34985881a73032076dea04b4f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8612bdd34bd1cbe2d45da8343318d722\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\89f3eb11780f297a710744076d84bf38\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d08bb071e6d4899caa0cc04f6c348465\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c7205e2a459cd7adafaa08027121ae5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\3ad004bd7ec75527d89317c30accf59b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\37943dae0ef0edaa5642bd0ff85a309d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\070391bb1fe17039611848e27891ef02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2835ab492d8a7e22e8554f8055b270c0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5ad7384cec9c445c14e6e2cd6f1973f9\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\9963b2cabc749bdc74b9681296a4c741\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\151194d7b3adf5027ad5cabd3a2bfc94\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\36968218d7f0ef562cf033edf8d3fecd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b969cd843f83d3147595ec914bf837da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\504c8301ff12b9a21935c4fa04f4df50\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\85bbe6555aa56322d78567c7ba4ebb3f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ca42ca290130f83f8815377bde22441b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ff6c5f1984dbcd597d21eb7b98ff6749\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bf89c246816f0b59a6fe529f99feb795\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7da5ede1d3999a27cb9b63c9ffc9e53c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f12ed40ef011d3bf53da0a59be8bfedd\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:10:5-72
+	android:name
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:10:22-69
+application
+ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:12:5-31:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6f72cc906f84641a8e354746165e7d4e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6f72cc906f84641a8e354746165e7d4e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\130c996482638139e6034fd719f7f0f3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\130c996482638139e6034fd719f7f0f3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2835ab492d8a7e22e8554f8055b270c0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2835ab492d8a7e22e8554f8055b270c0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5ad7384cec9c445c14e6e2cd6f1973f9\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5ad7384cec9c445c14e6e2cd6f1973f9\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2835ab492d8a7e22e8554f8055b270c0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:18:9-40
+activity#dsa.eetac.upc.edu.examen2.SplashScreen
+ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:23:27-74
+activity#dsa.eetac.upc.edu.examen2.LoginActivity
+ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:26:9-28:37
+	android:label
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:28:13-34
+	android:name
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:27:13-42
+activity#dsa.eetac.upc.edu.examen2.MainActivity
+ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:29:9-30:50
+	android:label
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:30:13-38
+	android:name
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml:29:19-47
+uses-sdk
+INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6f72cc906f84641a8e354746165e7d4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6f72cc906f84641a8e354746165e7d4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\64d095c01dab46d2f9448a92a2c51a4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\64d095c01dab46d2f9448a92a2c51a4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\130c996482638139e6034fd719f7f0f3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\130c996482638139e6034fd719f7f0f3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\7181d2f59a8c3b801f838d6fc2d9d89e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\7181d2f59a8c3b801f838d6fc2d9d89e\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\3d4c169fa47361c2e61d53d34cd29af2\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\3d4c169fa47361c2e61d53d34cd29af2\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a78f3e27715382398f416defb5f00f66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a78f3e27715382398f416defb5f00f66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\24084af8a19fbdbb4a57f65281a860b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\24084af8a19fbdbb4a57f65281a860b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\697b424703c24543c91ec555baf69b49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\697b424703c24543c91ec555baf69b49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4d189e96f7abc06dd9f9c6ca3d4fc95e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4d189e96f7abc06dd9f9c6ca3d4fc95e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\427c1357ff3a047f2a525482ba5276fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\427c1357ff3a047f2a525482ba5276fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\13118fd5e1e61c5455020915aebae278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\13118fd5e1e61c5455020915aebae278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\1d00cc34985881a73032076dea04b4f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\1d00cc34985881a73032076dea04b4f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8612bdd34bd1cbe2d45da8343318d722\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8612bdd34bd1cbe2d45da8343318d722\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\89f3eb11780f297a710744076d84bf38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\89f3eb11780f297a710744076d84bf38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d08bb071e6d4899caa0cc04f6c348465\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d08bb071e6d4899caa0cc04f6c348465\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c7205e2a459cd7adafaa08027121ae5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c7205e2a459cd7adafaa08027121ae5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\3ad004bd7ec75527d89317c30accf59b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\3ad004bd7ec75527d89317c30accf59b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\37943dae0ef0edaa5642bd0ff85a309d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\37943dae0ef0edaa5642bd0ff85a309d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\070391bb1fe17039611848e27891ef02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\070391bb1fe17039611848e27891ef02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2835ab492d8a7e22e8554f8055b270c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2835ab492d8a7e22e8554f8055b270c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5ad7384cec9c445c14e6e2cd6f1973f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5ad7384cec9c445c14e6e2cd6f1973f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\9963b2cabc749bdc74b9681296a4c741\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\9963b2cabc749bdc74b9681296a4c741\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\151194d7b3adf5027ad5cabd3a2bfc94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\151194d7b3adf5027ad5cabd3a2bfc94\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\36968218d7f0ef562cf033edf8d3fecd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\36968218d7f0ef562cf033edf8d3fecd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b969cd843f83d3147595ec914bf837da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b969cd843f83d3147595ec914bf837da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\504c8301ff12b9a21935c4fa04f4df50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\504c8301ff12b9a21935c4fa04f4df50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\85bbe6555aa56322d78567c7ba4ebb3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\85bbe6555aa56322d78567c7ba4ebb3f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ca42ca290130f83f8815377bde22441b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ca42ca290130f83f8815377bde22441b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ff6c5f1984dbcd597d21eb7b98ff6749\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ff6c5f1984dbcd597d21eb7b98ff6749\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bf89c246816f0b59a6fe529f99feb795\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bf89c246816f0b59a6fe529f99feb795\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7da5ede1d3999a27cb9b63c9ffc9e53c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7da5ede1d3999a27cb9b63c9ffc9e53c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f12ed40ef011d3bf53da0a59be8bfedd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ajota\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f12ed40ef011d3bf53da0a59be8bfedd\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ajota\Desktop\Examen2DSA-master\app\src\main\AndroidManifest.xml
